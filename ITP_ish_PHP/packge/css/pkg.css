@@ -1,0 +1,105 @@
+.login-box1 input[type="text"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;/*underline*/
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color:#C2F5F5   ;/*input font color #fff*/
+    font-size: 16px
+}
+
+.login-box1{
+    width: 380px;/*black box width*/
+    height: 900px;/*black box height*/
+    background: rgba(0, 0, 0, 0.5);/*box color rgba(0, 0, 0, 0.5*/
+    color: #fff;/*<p> color*/
+    top: 100%;/*box position*/
+    left: 50%;/**/
+    position:absolute;/**/
+    transform: translate(-50%,-50%);/*box*/
+    box-sizing: border-box;/**/
+    padding: 30px 50px;/*box eka athule text position*/
+}
+
+#Aglink{
+font-size:18px;
+color:#FAFAFA;
+
+}
+.login-box1 input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+	width:285px;
+    background: #1c8adb;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+	position:center;
+}
+.login-box1 input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #39dc79;
+    color: #000;
+
+}
+::placeholder {
+    color: #C2F5F5;
+    opacity: 0.6; 
+}
+
+.TABLE{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 120%;
+    border: 5px solid #ddd;
+    }
+
+    th, td {
+      text-align:center;
+      padding: 20px;
+    }
+
+    tr:nth-child(even)
+{background-color: #f2f2f2}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
